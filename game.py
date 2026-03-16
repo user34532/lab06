@@ -2,8 +2,8 @@ import pygame
 import random
 
 # Constants
-WIDTH = 800
-HEIGHT = 600
+WIDTH = 900
+HEIGHT = 700
 GRID = 20
 
 BLACK = (0, 0, 0)
